@@ -24,7 +24,7 @@
 
  <hr/>
  
-## ⚒️ Favorite tools
+<h2 align="center">Favorite tools</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=typescript,go,rust,python,nodejs,javascript,postgresql,svelte" />
