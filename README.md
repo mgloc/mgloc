@@ -1,9 +1,15 @@
-## 🛠️ Technologies & Tools
+## 🛠️ Favorite Languages
 
-- **Loved languages**: Typescript, Go, Rust, Python
-- **Web frameworks**: Svelte + SvelteKit, React + NextJS
-- **DevOps**: Docker, Kubernetes, Helm
-- **Design**: Figma, Photoshop, Illustrator, Vegas Pro 
+- **Frontends**: Typescript
+- **Backends**: Go, Python 🐍
+- **Small projects**: Rust 🦀, Python
+
+## 🛠️ Favorite Tools
+
+- **Web frameworks**: Svelte + SvelteKit 🧡
+- **DB**: Postgres 🐘
+- **DevOps**: Docker 🐳, Kubernetes, Helm
+- **Design**: Figma 🎨, Excalidraw ✏️
 
 ## 🌐 Connect with Me
 
