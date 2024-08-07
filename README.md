@@ -12,7 +12,7 @@
  
  <!--  🌱 I’m currently learning **Thai language, Whisper, Kubernetes** -->
 
-<!-- 💬 Ask me about **Anything [here](https://github.com/mgloc/issues)** -- >
+<!-- 💬 Ask me about **Anything [here](https://github.com/mgloc/issues)** -->
 
  </div>
  
